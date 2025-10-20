@@ -5,19 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mahmoud!;Front-End+Developer;Cybersecurity+Enthusiast;OOP+Programmer;Let's+Code+and+Secure+the+Web!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mahmoud!;Computer+Science+Student;Front-End+Developer;Cybersecurity+Enthusiast;OOP+Programmer!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-💻 I'm a **Front-End Developer** passionate about creating modern, responsive, and user-friendly web interfaces.  
-📚 Skilled in **HTML**, **CSS**, and **JavaScript**, and currently learning **React** and **Tailwind CSS** to build dynamic web applications.  
-⚙️ I have hands-on experience with **Git** and **GitHub**, and I use **Visual Studio Code** as my main editor.  
-🧠 I understand and apply **Object-Oriented Programming (OOP)** principles in **C++** and **Java**.  
-🛡️ I'm also interested in **Cybersecurity**, especially **web penetration testing** and ethical hacking.  
-🌍 Based in Egypt 🇪🇬, constantly exploring new tools and technologies to improve my skills.
+🎓 I'm a **Computer Science student** passionate about technology, software development, and continuous learning.  
+💻 I’m focused on **Front-End Development**, building modern, responsive, and user-friendly web interfaces.  
+📚 Skilled in **HTML**, **CSS**, and **JavaScript**, and currently learning **React** and **Tailwind CSS** to create dynamic web apps.  
+⚙️ I have hands-on experience with **Git** and **GitHub**, and I mainly use **Visual Studio Code** for development.  
+🧠 I understand and apply **Object-Oriented Programming (OOP)** principles using **C++** and **Java**.  
+🛡️ I’m also interested in **Cybersecurity**, especially **web penetration testing** and ethical hacking.  
+🌍 Based in Egypt 🇪🇬, always exploring new technologies to improve my skills and knowledge.
 
 ---
 
@@ -63,9 +64,6 @@
 - 📧 Email: [mahmoud.95.0p@gmail.com](mailto:mahmoud.95.0p@gmail.com)  
 - 💼 LinkedIn: [Mahmoud Mohamed](https://www.linkedin.com/in/mahmoud-mohamed-542885324/)  
 - 🐙 GitHub: [Mahmoud7-cyber](https://github.com/Mahmoud7-cyber)  
-- ![GitHub followers](https://img.shields.io/github/followers/Mahmoud7-cyber?label=Follow&style=social)
+- ![GitHub]()
 
----
-
-> “Keep coding, keep learning — every line of code makes you better.” 💪
 
